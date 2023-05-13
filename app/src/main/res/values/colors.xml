@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1BB1B8</color>
+    <color name="colorPrimaryDark">#148187</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="df_transparent_black_background">#80000000</color>
+    <color name="whiteCardColor">#fff</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="blackTextColor">#000</color>
+    <color name="lowYellow">#FFD042</color>
+
+    <color name="darkgray">#6c6c6c</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    <color name="blue">#03A9F4</color>
+    <color name="red">#FF0000</color>
+
+    <color name="grey">#E5E5E5</color>
+    <color name="lightBlue">#65DCE5</color>
+
+</resources>

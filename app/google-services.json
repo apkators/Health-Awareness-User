@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "280651830095",
+    "firebase_url": "https://health-threat-awareness-default-rtdb.firebaseio.com",
+    "project_id": "health-threat-awareness",
+    "storage_bucket": "health-threat-awareness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280651830095:android:e5966a3df0dcebb8beeb3a",
+        "android_client_info": {
+          "package_name": "com.health.threat.awareness.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280651830095-27qmojoo1hpuso5lkt68dcd6gajepgih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.health.threat.awareness.admin",
+            "certificate_hash": "fbdc16b743cd59252568e29bbd2dd51293228dca"
+          }
+        },
+        {
+          "client_id": "280651830095-kn1dna0a7kkkr3fql7nfcthaemgch3mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW8gVKa8TN7O9iLBCs3ozoEyHnEM9gdNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280651830095-kn1dna0a7kkkr3fql7nfcthaemgch3mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280651830095:android:d96b1049e8d8c91cbeeb3a",
+        "android_client_info": {
+          "package_name": "com.health.threat.awareness.hospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280651830095-9uhfidn2nnddhskfb4quh1ndp0s61se3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.health.threat.awareness.hospital",
+            "certificate_hash": "fbdc16b743cd59252568e29bbd2dd51293228dca"
+          }
+        },
+        {
+          "client_id": "280651830095-kn1dna0a7kkkr3fql7nfcthaemgch3mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW8gVKa8TN7O9iLBCs3ozoEyHnEM9gdNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280651830095-kn1dna0a7kkkr3fql7nfcthaemgch3mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280651830095:android:a0f51dd7131e1548beeb3a",
+        "android_client_info": {
+          "package_name": "com.health.threat.awareness.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280651830095-r3tpo3du8kpdu8dbp6255ucokbsohn09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.health.threat.awareness.user",
+            "certificate_hash": "fbdc16b743cd59252568e29bbd2dd51293228dca"
+          }
+        },
+        {
+          "client_id": "280651830095-kn1dna0a7kkkr3fql7nfcthaemgch3mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW8gVKa8TN7O9iLBCs3ozoEyHnEM9gdNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280651830095-kn1dna0a7kkkr3fql7nfcthaemgch3mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
